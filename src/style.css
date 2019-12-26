@@ -1,0 +1,78 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins|Source+Code+Pro&display=swap');
+
+html {
+  background-color: #1f2b3b !important;
+  color: #fff !important;
+  font-family: "Poppins", sans-serif !important;
+}
+
+body {
+  background-color: #1f2b3b !important;
+  color: #fff !important;
+  font-size: 20px !important;
+  font-family: "Poppins", sans-serif !important;
+}
+
+footer{
+  text-align: center;
+  margin-bottom: 0;
+  padding: 3%
+}
+
+.code {
+  font-family: "Source Code Pro", monospace;
+}
+
+.info {
+  line-height: 1.4;
+  width: 85%;
+}
+
+.social {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white !important;
+}
+
+.icon {
+  height: 2rem;
+  transition: 0.1s ease-in;
+  color: #fff;
+}
+
+.icon:hover {
+  transform: scale(1.5);
+  color: #ff8a00;
+}
+
+.card {
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  transition: 0.1s ease-in;
+  background-color: #324359 !important;
+}
+
+.card p {
+  font-size: 0.7em;
+  color: #ccc !important;
+}
+
+.card a {
+  font-size: 2rem;
+}
+
+.card:hover {
+  transform: scale(1.09);
+}
+
+.card h2{
+  color: #ff8a00;
+}
+
+.nav-item{
+  margin: 0 18px;
+}
+
+#projects{
+  padding-top: 3%;
+}

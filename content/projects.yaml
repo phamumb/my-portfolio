@@ -1,0 +1,25 @@
+- title: JMinusMinus
+  subtitle: Introduction to compiler organization and implementation,  including formal specifications and algorithms for lexical and syntactic analysis, internal representation of the source program, semantic analysis, run-time environment issues and code generation.
+  link: https://github.com/phamumb/JMinusMinus-Compiler
+  languages: [Java, XML]
+
+
+- title: Longbow Man- VR
+  subtitle: The project is a virtual reality (VR) video game developed by our team at UMB. It uses VR technology and the HTC Vive device to showcase a series of play experiences accessed through Unity. Leading my team to build an archery-based game.
+  link: https://github.com/phamumb/Longbow-VR
+
+- title: Structure of Higher-Level Language
+  subtitle: The projects covers important topics on mechanism for parameter passing, scoping, dynamic storage allocation and systems interfacing.  
+  link: https://github.com/phamumb/Structure-of-Higher-Level-Languages
+
+- title: Qr-Code-Application
+  subtitle: A new Flutter project
+  link: https://github.com/Mr404Found/Qr-Code-Application
+
+- title: Qr-Code-Application
+  subtitle: A new Flutter project
+  link: https://github.com/Mr404Found/Qr-Code-Application
+
+- title: Qr-Code-Application
+  subtitle: A new Flutter project
+  link: https://github.com/Mr404Found/Qr-Code-Application
