@@ -2,9 +2,7 @@ import React from 'react'
 import {
   FaTwitter as Twitter,
   FaGithub as Github,
-  FaYoutube as Youtube,
   FaInstagram as Insta,
-  FaEnvelope as Mail,
 } from "react-icons/fa"
 
 function Footer() {
@@ -19,9 +17,6 @@ function Footer() {
         </a>
         <a className="m-4 icon" href="https://github.com/phamumb">
           <Github />
-        </a>
-        <a className="m-4 icon" href="mailto://phamdluat@gmail.com">
-          <Mail />
         </a>
       </div>
     </footer>

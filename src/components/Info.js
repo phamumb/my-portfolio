@@ -8,7 +8,7 @@ export default function Info() {
       <div className="container" data-sal="slide-left" data-sal-delay="500"
   data-sal-easing="ease">
         <div className="my-5"></div>
-        <div className="display-3" style={{ color: "#FF8A00" }}>
+        <div className="display-3" style={{ color: "#29a19c" }}>
           <span style={{ color: "white" }}>Hello, I'm</span> <br />
           Luat Pham.
       </div>

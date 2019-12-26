@@ -12,13 +12,16 @@ export default function Navbar() {
             <a class="nav-link" href="#about">About</a>
           </li>
           <li class="nav-item">
+            <a class="nav-link" href="#education">Education</a>
+          </li>
+          <li class="nav-item">
             <a class="nav-link" href="#projects">Projects</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#about">Resume</a>
+            <a class="nav-link" href="#contact">Contact</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#about">Contact</a>
+            <a class="nav-link" href="./static/resume.pdf">Resume</a>
           </li>
         </ul>
       </div>

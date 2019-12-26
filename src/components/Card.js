@@ -8,8 +8,7 @@ function Card(props) {
   const { cardTitle, cardSubtitle, link } = props
   return (
     <div className="col-lg-4" >
-      <div className="card mx-3 my-5" data-sal="slide-up" data-sal-delay="300"
-  data-sal-easing="ease">
+      <div className="card mx-1 my-5" data-sal="fade" data-sal-delay="400">
         <div className="card-body">
           <Folder />
           <h2 className="card-title">{cardTitle}</h2>
