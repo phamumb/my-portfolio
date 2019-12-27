@@ -8,7 +8,6 @@ function Education({ data }) {
                 <h2>Education</h2>
                 {
                     data.map(({node}, i)=>{
-                        console.log(node)
                         return (
                             <School name={node.name}
                             short={node.short} 
