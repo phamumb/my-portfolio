@@ -1,7 +1,12 @@
 <p align="center">
   The first version of <a href="https://ecstatic-saha-06a32c.netlify.com/" target="_blank">my portfolio</a> built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with <a href="https://www.netlify.com/" target="_blank">Netlify</a>
 </p>
-[![Netlify Status](https://api.netlify.com/api/v1/badges/c739c779-ba79-4cd1-8e44-622ad3ac7b34/deploy-status)](https://app.netlify.com/sites/ecstatic-saha-06a32c/deploys)
+<p align="center">
+  <a href="https://app.netlify.com/sites/ecstatic-saha-06a32c/deploys" target="_blank">
+    <img src="https://api.netlify.com/api/v1/badges/c739c779-ba79-4cd1-8e44-622ad3ac7b34/deploy-status" alt="Netlify Status" />
+  </a>
+</p>
+
 
 ## 🚀 Quick start
 
