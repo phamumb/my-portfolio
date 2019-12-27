@@ -1,25 +1,31 @@
 - title: JMinusMinus
   subtitle: Introduction to compiler organization and implementation,  including formal specifications and algorithms for lexical and syntactic analysis, internal representation of the source program, semantic analysis, run-time environment issues and code generation.
   link: https://github.com/phamumb/JMinusMinus-Compiler
-  languages: [Java, XML]
-
 
 - title: Longbow Man- VR
   subtitle: The project is a virtual reality (VR) video game developed by our team at UMB. It uses VR technology and the HTC Vive device to showcase a series of play experiences accessed through Unity. Leading my team to build an archery-based game.
   link: https://github.com/phamumb/Longbow-VR
 
-- title: Structure of Higher-Level Language
+- title: Structure of Higher-Level Languages
   subtitle: The projects covers important topics on mechanism for parameter passing, scoping, dynamic storage allocation and systems interfacing.  
   link: https://github.com/phamumb/Structure-of-Higher-Level-Languages
 
-- title: Qr-Code-Application
+- title: My Portfolio Web-App
   subtitle: A new Flutter project
   link: https://github.com/Mr404Found/Qr-Code-Application
 
-- title: Qr-Code-Application
-  subtitle: A new Flutter project
-  link: https://github.com/Mr404Found/Qr-Code-Application
+- title: PharmTechApp
+  subtitle: This mobile app was created for informational and educational use only at BHCC. This app is intended for use by students of the BHCC Pharmacy Technology Program and is a pilot application. 
+  link: https://github.com/phamumb/PharmTechApp
 
-- title: Qr-Code-Application
+- title: Machine Projects
+  subtitle: These projects are part of Operating System Course.The projects demonstrate the concept of kernel and user mode. It also resolves many problems related to accessing resources.
+  link: https://github.com/phamumb/Machine-Projects
+
+- title: Pizza Web-App
+  subtitle: A new Flutter project
+  link: https://github.com/phamumb/Web-Application
+
+- title: Note Keeper Web-App
   subtitle: A new Flutter project
   link: https://github.com/Mr404Found/Qr-Code-Application

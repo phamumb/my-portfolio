@@ -1,5 +1,6 @@
 import React from "react"
 import "../style.css"
+import Navbar from "../components/Navbar"
 import Info from "../components/Info"
 import { Helmet } from "react-helmet"
 import Education from "../components/Education"
@@ -12,12 +13,13 @@ import { graphql } from "gatsby"
 function index({ data }) {
   return (
     <div>
+      <Navbar />
       <Info />
-      <Education />
-      <Projects data={data.allProjectsYaml.edges} />
+      <Education data={data.schools.edges} />
+      <Projects data={data.projects.edges} />
       <Contact />
       <Footer />
-      <ScrollUpButton style={{backgroundColor: 0}} />
+      <ScrollUpButton style={{ backgroundColor: 0 }} />
       <Helmet>
         <meta charSet="utf-8" />
         <title>Home | Luat Pham</title>
@@ -30,16 +32,28 @@ export default index
 
 export const query = graphql`
   {
-    allProjectsYaml {
+    projects: allProjectsYaml {
       edges {
         node {
           title
           subtitle
           link
-          languages
           id
         }
       }
     }
+
+    schools:  allSchoolsYaml {
+      edges {
+        node {
+          major
+          name
+          short
+          attend
+          courses
+          id
+        }
+      }
+    }  
   }
 `

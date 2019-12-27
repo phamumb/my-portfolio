@@ -1,15 +1,13 @@
 import React from "react"
-import Navbar from "./Navbar"
 
 export default function Info() {
   return (
     <section id="about">
-      <Navbar />
-      <div className="container" data-sal="slide-left" data-sal-delay="500"
+      <div className="container" data-sal="slide-left" data-sal-delay="600"
   data-sal-easing="ease">
         <div className="my-5"></div>
-        <div className="display-3" style={{ color: "#29a19c" }}>
-          <span style={{ color: "white" }}>Hello, I'm</span> <br />
+        <div className="display-3 text-primary">
+          <span className="text-white">Hello, I'm</span> <br />
           Luat Pham.
       </div>
         <div className="h1 code mt-4 mb-3">{"{"}</div>

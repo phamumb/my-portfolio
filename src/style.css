@@ -43,7 +43,7 @@ footer{
 
 .icon:hover {
   transform: scale(1.5);
-  color: #a3f7bf;
+  color: #0275d8;
 }
 
 .card {
@@ -66,12 +66,31 @@ footer{
   transform: scale(1.09);
 }
 
-.card h2{
-  color: #29a19c;
+.navbar-brand
+{
+  font-family: "Poppins", sans-serif !important;
+  font-weight: bold;
 }
 
 .nav-item{
   margin: 0 18px;
+}
+
+.fadeup-enter {
+  opacity: 0.01;
+  transform: translateY(20px);
+  transition: opacity 300ms;
+  transform: 300ms;
+}
+.fadeup-enter-active {
+  opacity: 1;
+  transform: translateY(0px);
+  transition: opacity 300ms;
+  transform: 300ms;
+}
+
+.projects{
+  
 }
 
 #projects{
@@ -80,9 +99,4 @@ footer{
 
 #contact{
   padding: 5% 20%;
-}
-
-#contact h1{
-  color: #29a19c;
-
 }

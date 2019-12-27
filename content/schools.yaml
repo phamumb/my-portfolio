@@ -1,0 +1,11 @@
+- name: University of Massachusetts, Boston
+  short: umass
+  major: B.S Computer Science  
+  attend: 2018 - 2019
+  courses: Discrete Math, Advanced Data Structures, Algorithms, Computer Architecture and Organization, Theory of Computation, Operating System, Higher Level Languages, Compilers, Probability and Statistics, Introduction to Software Engineer, DB-Backed Web Sites and Web Server.
+
+- name: Bunker Hill Community College
+  short: bhcc
+  major: A.S Computer Science
+  attend: 2016 - 2017
+  courses: Linear Algebra, Data Structure, Android for Java Programmers, OOPL for Programmers, Advanced Java and C++.
