@@ -25,7 +25,6 @@ footer{
 
 .info {
   line-height: 1.4;
-  width: 85%;
 }
 
 .social {
@@ -74,23 +73,6 @@ footer{
 
 .nav-item{
   margin: 0 18px;
-}
-
-.fadeup-enter {
-  opacity: 0.01;
-  transform: translateY(20px);
-  transition: opacity 300ms;
-  transform: 300ms;
-}
-.fadeup-enter-active {
-  opacity: 1;
-  transform: translateY(0px);
-  transition: opacity 300ms;
-  transform: 300ms;
-}
-
-.projects{
-  
 }
 
 #projects{
