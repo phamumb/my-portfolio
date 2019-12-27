@@ -1,7 +1,9 @@
 <p align="center">
-  <a href="https://www.gatsbyjs.org">
+    <a href="https://www.gatsbyjs.org">
     <img alt="Gatsby" src="https://www.gatsbyjs.org/monogram.svg" width="60" />
-  </a>
+</a>
+ </p>
+<p align="center">
   The first version of <a href="https://ecstatic-saha-06a32c.netlify.com/" target="_blank">my portfolio</a> built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with <a href="https://www.netlify.com/" target="_blank">Netlify</a>
 </p>
 
