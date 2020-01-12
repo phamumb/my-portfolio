@@ -13,7 +13,7 @@
   </a>
 </p>
 
-![demo](./src/images/demo.PNG)
+![demo](./src/images/demo1.PNG)
 ## 🚀 Quick start
 
 1.  **Create a Gatsby site.**
