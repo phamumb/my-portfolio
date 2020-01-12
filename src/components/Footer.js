@@ -2,7 +2,7 @@ import React from 'react'
 import {
   FaTwitter as Twitter,
   FaGithub as Github,
-  FaInstagram as Insta,
+  FaLinkedin as Linkedin,
 } from "react-icons/fa"
 
 function Footer() {
@@ -13,7 +13,7 @@ function Footer() {
           <Twitter />
         </a>
         <a className="m-4 icon" href="https://instagram.com/">
-          <Insta />
+          <Linkedin />
         </a>
         <a className="m-4 icon" href="https://github.com/phamumb">
           <Github />
