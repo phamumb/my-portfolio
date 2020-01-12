@@ -12,7 +12,7 @@ function Footer() {
         <a className="m-4 icon" href="https://twitter.com/Mr404Found">
           <Twitter />
         </a>
-        <a className="m-4 icon" href="https://instagram.com/sumanth.zero7">
+        <a className="m-4 icon" href="https://instagram.com/">
           <Insta />
         </a>
         <a className="m-4 icon" href="https://github.com/phamumb">
