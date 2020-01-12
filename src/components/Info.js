@@ -11,10 +11,9 @@ export default function Info() {
       </p>
         <div className="h2 code mt-4 mb-3">{"{"}</div>
         <p className="text-muted mx-5 my-4 text-justify info">
-          A Passionate Front-end Developer, UI/UX Enthusiast, Android Geek and Web
-          Developer.
-        <br /> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-                          eiusmod tempor incididunt ut labore et.
+          I am a software engineer based in Boston, MA specializing in building Softwares 
+          and most abstracted to solving real algorithms problems.
+          <br /> .A Passionate Full-stack Developer, UI/UX Enthusiast, Algorithms and Data Structures Geek.
       </p>
         <div className="h1 code mt-2 mb-3">{"}"}</div>
       </div>
