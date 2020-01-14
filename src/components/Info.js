@@ -1,8 +1,10 @@
 import React from "react"
+import Navbar from "../components/Navbar"
 
 export default function Info() {
   return (
     <section id="about">
+      <Navbar />
       <div className="container" >
         <div className="my-5"></div>
         <p className="display-3 text-primary">

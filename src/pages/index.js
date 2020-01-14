@@ -1,6 +1,5 @@
 import React from "react"
 import "../style.css"
-import Navbar from "../components/Navbar"
 import Info from "../components/Info"
 import { Helmet } from "react-helmet"
 import Education from "../components/Education"
@@ -13,7 +12,6 @@ import { graphql } from "gatsby"
 function index({ data }) {
   return (
     <div>
-      <Navbar />
       <Info />
       <Education data={data.schools.edges} />
       <Projects data={data.projects.edges} />
