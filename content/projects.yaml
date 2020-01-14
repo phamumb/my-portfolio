@@ -11,11 +11,11 @@
   link: https://github.com/phamumb/Structure-of-Higher-Level-Languages
 
 - title: My Portfolio Web-App
-  subtitle: A new Flutter project
+  subtitle: Building my first portfolio website using Gatsby , JQuery and YAML plugins. The purposes of the project are to show my web-development skills and accomplishments of myself during my time at UMass Boston.
   link: https://github.com/Mr404Found/Qr-Code-Application
 
 - title: PharmTechApp
-  subtitle: This mobile app was created for informational and educational use only at BHCC. This app is intended for use by students of the BHCC Pharmacy Technology Program and is a pilot application. 
+  subtitle: This mobile app was created for informational and educational use only at BHCC. This app is intended for use by students of the BHCC Pharmacy Technology Program and is a pilot application. I built this app to help medical students to memorize medical terms more efficient and also generate tests base on medical term topics.
   link: https://github.com/phamumb/PharmTechApp
 
 - title: Machine Projects
@@ -23,9 +23,9 @@
   link: https://github.com/phamumb/Machine-Projects
 
 - title: Pizza Web-App
-  subtitle: A new Flutter project
+  subtitle: The project is created while attending Database-backed Web-application course. The purpose of the project is building an pizza web-app for students to keep track and placing orders, on the pizza bakers side be able to create new toppings, manage students ID and updating pizza baking status. The project is hosted by Topcat.cs.umb.edu
   link: https://github.com/phamumb/Web-Application
 
 - title: Note Keeper Web-App
-  subtitle: A new Flutter project
+  subtitle: Creating an web-app to hold all of your notes and keep track of your todo-list based on React.js
   link: https://github.com/Mr404Found/Qr-Code-Application
