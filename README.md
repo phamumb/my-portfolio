@@ -22,7 +22,7 @@
 
     ```sh
     # create a new Gatsby site using the default starter
-    gatsby new my-default-starter https://github.com/gatsbyjs/gatsby-starter-default
+    gatsby new my-default-starter gatsby new gatsby-starter-profile-site https://github.com/Mr404Found/gatsby-starter-profile-site
     ```
 
 1.  **Start developing.**
@@ -91,13 +91,6 @@ Looking for more guidance? Full documentation for Gatsby lives [on the website](
 - **For most developers, we recommend starting with our [in-depth tutorial for creating a site with Gatsby](https://www.gatsbyjs.org/tutorial/).** It starts with zero assumptions about your level of ability and walks through every step of the process.
 
 - **To dive straight into code samples, head [to our documentation](https://www.gatsbyjs.org/docs/).** In particular, check out the _Guides_, _API Reference_, and _Advanced Tutorials_ sections in the sidebar.
-## Color Reference
- Color          | Hex                                                                |
-| -------------- | ------------------------------------------------------------------ |
-| Dark           | ![#222831](https://via.placeholder.com/10/0a192f?text=+) `#222831` |
-| Grey           | ![#393e46](https://via.placeholder.com/10/0a192f?text=+) `#393e46` |
-| Turquoise      | ![#29a19c](https://via.placeholder.com/10/333f58?text=+) `#29a19c` |
-| Slate          | ![#a3f7bf](https://via.placeholder.com/10/8892b0?text=+) `#a3f7bf` |
 
 
 <!-- AUTO-GENERATED-CONTENT:END -->
