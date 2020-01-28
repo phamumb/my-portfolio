@@ -9,7 +9,7 @@ function Footer() {
   return (
     <footer>
       <div className="h1 mt-5">
-        <a className="m-4 icon" href="https://twitter.com/Mr404Found">
+        <a className="m-4 icon" href="https://twitter.com/">
           <Twitter />
         </a>
         <a className="m-4 icon" href="https://www.linkedin.com/in/luat-pham-6b5338191/">
